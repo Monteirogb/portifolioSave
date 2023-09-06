@@ -38,10 +38,14 @@ li {
 
 /*inicio body*/
 .apresentacao{
+    height: 200px;
     background: gold;
     margin-left: 25px;
     margin-right: 25px;
+    padding: 10px;
     padding-top: 30px;
     font-size: 1.3em;
+    border-radius: 25px;
+    
 
 }
