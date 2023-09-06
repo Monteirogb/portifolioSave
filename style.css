@@ -10,7 +10,7 @@
 header{
     width: auto;
     height: 8%;
-    border: 0.5px solid rgba(37, 37, 37, 0.349);
+    border: 0.1px solid rgba(37, 37, 37, 0.349);
     background: rgb(255, 253, 253);
 }
 ul{
@@ -23,12 +23,25 @@ li {
     margin-top: 15px;
     margin-left: 25px;
     list-style-type: none;
+
 }
 .center-menu-header{
     text-decoration: none;
+    color: black;
 }
 
 #logo{
     margin-right: 90px;
+    color: black;
 }
 /* fim header*/
+
+/*inicio body*/
+.apresentacao{
+    background: gold;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-top: 30px;
+    font-size: 1.3em;
+
+}
