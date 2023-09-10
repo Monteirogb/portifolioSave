@@ -33,3 +33,38 @@ li {
     color: black;
 }
 /* fim header*/
+
+/*inicio body*/
+#eu-sou{
+    margin-top: 30px;
+    margin-left: 25px;
+}
+.eu-sou-nome1{
+    margin-bottom: 20px;
+}
+.eu-sou-nome{
+    margin-bottom: 20px;
+}
+.foto-perfil{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-left:70px;
+}
+.icon-site{
+    padding-left: 30px;
+}
+.icon-site-sty{
+    height: 40px;
+    width: 40px;
+}
+.confira-trabalhos{
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.curriculo-email{
+    margin-left: 25px;
+    margin-bottom: 5px;
+}
